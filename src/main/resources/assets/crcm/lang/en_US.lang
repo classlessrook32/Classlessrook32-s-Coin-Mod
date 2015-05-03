@@ -1,0 +1,21 @@
+//coins
+item.CyanCoin.name=§3Cyan Coin
+item.GreenCoin.name=§aGreen Coin
+item.YellowCoin.name=§6Yellow Coin
+item.LimeCoin.name=§2Lime Coin
+item.BlackCoin.name=§0Black Coin
+item.BrownCoin.name=§0§6Brown Coin
+item.GrayCoin.name=§8Gray Coin
+item.LightGrayCoin.name=§7Light Gray Coin
+item.PinkCoin.name=§5Pink Coin
+item.PurpleCoin.name=§5Purple Coin
+item.MagentaCoin.name=§5Magenta Coin
+item.LightBlueCoin.name=§bLight Blue Coin
+item.BlueCoin.name=§1Blue Coin
+item.WhiteCoin.name=§fWhite Coin
+item.RedCoin.name=§4Red Coin
+item.OrangeCoin.name=§e§6Orange Coin
+
+
+//tabs
+itemGroup.Coins=§3Classlessrook32's Coins Mod

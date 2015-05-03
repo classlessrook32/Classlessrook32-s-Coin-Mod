@@ -1,0 +1,16 @@
+[
+{
+  "modid": "crcm",
+  "name": "Classlessrook32's Coin Mod",
+  "description": "16 coins, 1 for each color dye.",
+  "version": "V1.3",
+  "mcversion": "1.8",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Classlessrook32"],
+  "credits": "",
+  "logoFile": "assets/crcm/logo.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]
